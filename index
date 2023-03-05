@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>      
+   <link rel="preconnect" 
+       href="https://fonts.googleapis.com">
+   <link rel="preconnect" 
+       href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Gruppo&family=New+Rocker&display=swap" 
+         rel="stylesheet">
+   <link rel="stylesheet"
+         href="C:\Users\mrsty\Desktop\Fugporium\fugcss.css">
+     <!--Bullshit starts here-->
+   <div class=head> 
+    <div class="dropdown">
+      <script src="c:\users\mrsty\desktop\fugporium\fugjava.js"></script>
+      <button onclick="myFunction()" 
+      class="dropbtn">Menu</button>
+      <div id="menu" class="dropdown-content">
+         <a href="#">About</a>
+         <a href="#">Ramblings</a>
+         <a href="#">Useful Links</a>
+         <a href="#">Contact Me</a>
+     <!--Bullshit ends here-->
+   </div>
+       </div>
+  
+ <title>The Fugporium</title>
+ <!-- video -->
+
+  <video playsinline autoplay muted loop>
+     <source src="C:\Users\mrsty\Desktop\Fugporium\stuff\candle.mp4" type="video/webm">
+        Your browser does not support the video tag.
+  </video>
+
+
+<div class="header">
+   <font color="#b8b5a2">
+   <p align="center">
+   <p class="intro">
+   <b>Welcome to the Fugporium!</b></p>
+   <br>
+   <p class="cursive"> 
+My own private little shithole for me to bounce my chaotic thoughts around in a futile attempt to form a cohessive thought as well as <i>attempt</i> to learn how to code! </p>
+  </head>      
+ 
+    <footer>    
+      <font size ="1">
+**This blog, if you can even call it that, is a work in progress and probably always will be. I do not own or claim copyright to any media or images you may see on this site unless stated otherwise.** 
+    </footer>
+        
+  </body>
+</div>
+</html>
